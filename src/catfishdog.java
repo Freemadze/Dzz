@@ -10,17 +10,22 @@ public class catfishdog {
         dog.owner = Father;
 
     }
-    private static class Fish{
+
+    private static class Fish {
         public Father owner;
 
     }
-    private static class Father{
+
+    private static class Father {
 
 
     }
+
     private static class Cat {
         public Father owner;
     }
-    private static class Dog{
+
+    private static class Dog {
         public Father owner;
+    }
 }
